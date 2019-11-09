@@ -6,7 +6,7 @@
 
 var friends = [
   {
-    name: "Ahmed",
+    name: "Gandalf",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
     scores: [
       "5",
@@ -22,7 +22,7 @@ var friends = [
     ]
   },
   {
-    name: "Jared",
+    name: "Neo",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
     scores: [
       "5",
@@ -38,7 +38,7 @@ var friends = [
     ]
   },
   {
-    name: "Joel",
+    name: "Conan",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
     scores: [
       "5",
@@ -54,7 +54,7 @@ var friends = [
     ]
   },
   {
-    name: "Jason",
+    name: "Frank",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
     scores: [
       "5",
@@ -70,7 +70,7 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
+    name: "Ryan",
     photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     scores: [
       "4",
@@ -86,7 +86,7 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
+    name: "Ernest",
     photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
     scores: [
       "5",
@@ -102,7 +102,7 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
+    name: "Tommy",
     photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
     scores: [
       "3",
@@ -118,7 +118,7 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
+    name: "Benedict",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
     scores: [
       "4",
@@ -134,7 +134,7 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
+    name: "Frodo",
     photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
     scores: [
       "4",
